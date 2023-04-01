@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-**Feel free to add/modify to this template here https://github.com/CollActionteam/collaction_design/issues/templates/edit **
-
 **Task description**
 A clear and concise description
 
